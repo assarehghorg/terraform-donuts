@@ -21,6 +21,6 @@ output "orders" {
     Dallas = "Maple Bacon"
     Gabi = "Glazed w/ Rainbow Sprinkles"
     Sage = "Blueberry"
-    Paris = null
+    Paris = "null"
   }
 }
