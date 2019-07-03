@@ -16,7 +16,6 @@ output "flavors" {
 }
 
 output "orders" {
-  sensitive = true
   value = {
     Dallas = "Maple Bacon"
     Gabi = "Glazed w/ Rainbow Sprinkles"
