@@ -11,15 +11,16 @@ output "flavors" {
     "Maple Bacon",
     "Old-Fashioned",
     "Glazed w/ Rainbow Sprinkles",
-    "Blueberry Glaze"
+    "Blueberry Glaze",
   ]
 }
 
 output "orders" {
   value = {
     Dallas = "Maple Bacon"
-    Gabi = "Glazed w/ Rainbow Sprinkles"
-    Sage = "Blueberry"
-    Paris = "null"
+    Gabi   = "Glazed w/ Rainbow Sprinkles"
+    Sage   = "Blueberry"
+    Paris  = "null"
   }
 }
+
